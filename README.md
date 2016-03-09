@@ -13,5 +13,5 @@
 ### Binary Search
 - Designer
   ![Screenshot](Designer3.png)
-  ![Screenshot](Block3.png)
+  ![Screenshot](Block3.1.png)
 
